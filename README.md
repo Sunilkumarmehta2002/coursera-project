@@ -42,4 +42,4 @@ If you do run into any time sensitive platform issues, instead of contacting
 the course instructor and/or staff, reach out to our 24/7 chat support.  
 in the Learner Help Center. https://learner.coursera.help/hc  
 
-Happy learning!   
+Happy learning!!   
